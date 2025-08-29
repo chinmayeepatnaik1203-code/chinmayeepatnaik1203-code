@@ -43,17 +43,17 @@
 
 ## 📊 GitHub Stats  
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOURUSERNAME&show_icons=true&theme=tokyonight)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOURUSERNAME&layout=compact&theme=tokyonight)  
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=YOURUSERNAME&theme=tokyonight)  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=chinmayeepatnaik1203-code&show_icons=true&theme=tokyonight)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chinmayeepatnaik1203-code&layout=compact&theme=tokyonight)  
+![Streak](https://github-readme-streak-stats.herokuapp.com/?user=chinmayeepatnaik1203-code&theme=tokyonight)  
 
 ---
 
 ## 📡 Connect With Me  
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN)  
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL)  
-[![GitHub](https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YOURUSERNAME)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](chinmayee-patnaik-5581b4327)  
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:chinmayeepatnaik1203@gmail.com)  
+[![GitHub](https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white)](https://github.com/chinmayeepatnaik1203-code)  
 
 ---
 
